@@ -12,7 +12,7 @@
 
 
 
-## [Website](https://xjqx.github.io/crypto-tracker/)
+## [Website](https://tohjingqiang.com/)
 
 <img src="./static/personal-portfolio-website.gif" alt="personal-portfolio-website gif" width=500 />
 
