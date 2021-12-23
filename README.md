@@ -45,4 +45,4 @@
   - Special hover effects for some components
 
 ## Want to learn more?
-✉ Contact me if you are interested in understanding my implementation of my portfolio website
+✉ Contact me if you are interested in learning more about my implementation of my portfolio website
