@@ -14,7 +14,7 @@
 
 ## [Website](https://xjqx.github.io/crypto-tracker/)
 
-<img src="personal-portfolio-website.gif" alt="personal-portfolio-website gif" width=500 />
+<img src="./static/personal-portfolio-website.gif" alt="personal-portfolio-website gif" width=500 />
 
 ## Tech Stack
 - `React` to build front end
@@ -45,4 +45,4 @@
   - Special hover effects for some components
 
 ## Want to learn more?
-- [ ] Contact me if you are interested in understanding my implementation of my portfolio website.
+✉ Contact me if you are interested in understanding my implementation of my portfolio website
