@@ -13,7 +13,7 @@
 
 ## [Website](https://tohjingqiang.com/)
 
-<img src="./static/v2/portfolio-light.png" alt="Jing Qiang's portfolio website (light mode)" width=250 /><img src="./public/readme/portfolio-dark.png" alt="Jing Qiang's portfolio website (dark mode)" width=250 />
+<img src="./static/v2/portfolio-light.png" alt="Jing Qiang's portfolio website (light mode)" width=250 /><img src="./static/v2/portfolio-dark.png" alt="Jing Qiang's portfolio website (dark mode)" width=250 />
 
 <img src="./static/v2/portfolio-preview.gif" alt="Preview Jing Qiang's portfolio website (gif)" width=500 />
 
