@@ -44,6 +44,7 @@ View the full figma design [here](https://www.figma.com/file/75wb2mLCke0B8FXzni4
 ## Want to learn more?
 ✉ Contact me if you are interested in learning more about how I implemented my portfolio website
 
+<br />
 
 ## Archives:
 <details>
