@@ -7,6 +7,52 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+<br />
+
+## [Website](https://tohjingqiang.com/)
+
+<img src="./static/v3/portfolio-preview.png" alt="Jing Qiang's portfolio website" width=500 />
+
+<img src="./static/v3/portfolio-preview.gif" alt="Preview Jing Qiang's portfolio website (gif)" width=500 />
+
+<details>
+  <summary>Video</summary>
+  <dl>
+  
+https://github.com/xJQx/portfolio-website-v3/assets/47933193/d79055bd-6b3c-4518-9e84-7c57d243d46a
+
+  </dl>
+</details>
+
+<br />
+
+
+## License:
+- **DO NOT** use the 3d voxel fox designed by me.
+
+<br />
+
+## Want to learn more?
+✉ Contact me if you are interested in learning more about how I implemented my portfolio website
+
+<br />
+
+## Archives:
+<details>
+<summary>Version 2 (2022)</summary>
+<dl>
+
+<br />
+
+**Tech Stack:**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 <br />
@@ -44,9 +90,9 @@ View the full figma design [here](https://www.figma.com/file/75wb2mLCke0B8FXzni4
 ## Want to learn more?
 ✉ Contact me if you are interested in learning more about how I implemented my portfolio website
 
-<br />
+</dl>
+</details>
 
-## Archives:
 <details>
 <summary>Version 1 (2021)</summary>
 <dl>
